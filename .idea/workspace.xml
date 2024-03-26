@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37f7605-20a3-41e9-ad27-5af401003ec0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/structural/ProxyDesignPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/structural/ProxyDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/structural/ProxyDesignPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProxyDesignPattern (1)">
+  <component name="RunManager" selected="Application.ProxyDesignPattern (3)">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -75,19 +74,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdapterDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.design.structural.AdapterDesignPattern" />
-      <module name="Design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.design.structural.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BridgeDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.design.structural.BridgeDesignPattern" />
       <module name="Design-pattern" />
@@ -101,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.design.creational.BuilderDesignPattern" />
+    <configuration name="ProxyDesignPattern (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.structural.ProxyDesignPattern" />
       <module name="Design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.design.creational.*" />
+          <option name="PATTERN" value="org.design.structural.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,7 +100,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyDesignPattern (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ProxyDesignPattern (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.structural.ProxyDesignPattern" />
+      <module name="Design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.design.structural.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyDesignPattern (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.design.structural.ProxyDesignPattern" />
       <module name="Design-pattern" />
       <extension name="coverage">
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyDesignPattern (3)" />
+        <item itemvalue="Application.ProxyDesignPattern (2)" />
         <item itemvalue="Application.ProxyDesignPattern (1)" />
         <item itemvalue="Application.ProxyDesignPattern" />
         <item itemvalue="Application.BridgeDesignPattern" />
-        <item itemvalue="Application.AdapterDesignPattern" />
-        <item itemvalue="Application.BuilderDesignPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -194,17 +193,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/design/structural/ProxyDesignPattern.java</url>
-          <line>69</line>
+          <line>70</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/design/structural/ProxyDesignPattern.java</url>
-          <line>65</line>
-          <properties class="org.design.structural.ProxyDesignPattern" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/design/structural/ProxyDesignPattern.java</url>

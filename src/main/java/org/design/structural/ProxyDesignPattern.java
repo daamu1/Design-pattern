@@ -14,7 +14,7 @@ class RealImage implements Image {
         loadImageFromDisk();
     }
 
-    public void loadImageFromDisk() {
+    private void loadImageFromDisk() {
         System.out.println("Loading image: " + filename);
     }
 
